@@ -1,1 +1,1 @@
-Visit https://thekunalanand.github.io/Me/
+Visit https://thekunalanand.github.io/me/
