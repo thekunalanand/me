@@ -262,10 +262,6 @@ ul {
 	font-size: 1.5rem;
 	font-family: "poppins-regular", sans-serif;
 }
-li {
-	color: black;
-	display: list-item;
-}
 ol, ul {
 	margin-left: 1.7rem;
 }
